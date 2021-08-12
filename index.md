@@ -1,8 +1,0 @@
-<p style="text-align: center;">Перестанет ли квадрат быть квадратом, если разместить его в другой галлере?</p>
-<table style="width: 300px; height: 300px; background-color: black; margin-left: auto; margin-right: auto;" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-<tr>
-<td>&nbsp;</td>
-</tr>
-</tbody>
-</table>
